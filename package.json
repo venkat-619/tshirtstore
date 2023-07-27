@@ -1,0 +1,37 @@
+{
+  "name": "tshirtstore",
+  "version": "1.0.0",
+  "description": "a backend api for tshirt store",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "api",
+    "backend"
+  ],
+  "author": "V A Venkat",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^1.37.3",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "jsonwebtoken": "^9.0.1",
+    "mongoose": "^7.3.4",
+    "morgan": "^1.10.0",
+    "nodemailer": "^6.9.3",
+    "razorpay": "^2.9.1",
+    "stripe": "^12.13.0",
+    "swagger-ui-express": "^5.0.0",
+    "validator": "^13.9.0",
+    "yaml": "^2.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

@@ -1,0 +1,28 @@
+{
+    "shippingInfo": {
+      "address": "8/2079-2, sankarappa thota, near rtc bus stand",
+      "city": "kalyandurg",
+      "phoneNo": "6305806186",
+      "postalCode": "515761",
+      "state": "Andhra Pradesh",
+      "country": "India"
+    },
+    "orderItems": [
+      {
+        "name": "Pro design I WROTE CODE shirt",
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/ddxco6opc/image/upload/v1690273537/Products/lltcgm7epo1ao3vckmvb.jpg",
+        "price": 899,
+        "product": "64bf870a01c1e9aed7179eb8" 
+      }
+    ],
+    "paymentInfo": {
+      "id": "testString"
+    },
+    "taxAmount": 40,
+    "shippingAmount": 10,
+    "totalAmount": 949
+  }
+
+
+  
